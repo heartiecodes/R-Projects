@@ -1,1 +1,1 @@
-# R-Projects
+This repository contains R-based data science projects focused on data analysis, visualization, and predictive modeling. It showcases practical applications of R for exploring datasets, building models, and communicating insights through interactive dashboards and visualizations.
